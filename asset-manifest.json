@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pkmn-encounter/static/css/main.08830e6f.css",
+    "main.js": "/pkmn-encounter/static/js/main.6be84355.js",
+    "static/media/grass2.png": "/pkmn-encounter/static/media/grass2.9ef802fe7e1ceb4b6543.png",
+    "index.html": "/pkmn-encounter/index.html",
+    "main.08830e6f.css.map": "/pkmn-encounter/static/css/main.08830e6f.css.map",
+    "main.6be84355.js.map": "/pkmn-encounter/static/js/main.6be84355.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08830e6f.css",
+    "static/js/main.6be84355.js"
+  ]
+}
